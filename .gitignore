@@ -1,0 +1,7 @@
+*.htm
+*.html
+*.drc
+*.SchDocPreview
+*.PcbDocPreview
+History/**
+Project Logs for BinaryClock/**
